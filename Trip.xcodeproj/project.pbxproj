@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		4A6EDF141DFC392900ACBC05 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		4A6EDF151DFC56BD00ACBC05 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
+		4A6EDF171DFC809500ACBC05 /* music.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = music.html; sourceTree = "<group>"; };
+		4A6EDF181DFC809D00ACBC05 /* food.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = food.html; sourceTree = "<group>"; };
+		4A6EDF191DFC80AE00ACBC05 /* drinks.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = drinks.html; sourceTree = "<group>"; };
+		4A6EDF1A1DFC80B500ACBC05 /* social.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = social.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		4A6EDF0D1DFC391200ACBC05 = {
+			isa = PBXGroup;
+			children = (
+				4A6EDF171DFC809500ACBC05 /* music.html */,
+				4A6EDF181DFC809D00ACBC05 /* food.html */,
+				4A6EDF141DFC392900ACBC05 /* index.html */,
+				4A6EDF191DFC80AE00ACBC05 /* drinks.html */,
+				4A6EDF1A1DFC80B500ACBC05 /* social.html */,
+				4A6EDF151DFC56BD00ACBC05 /* img */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		4A6EDF0E1DFC391200ACBC05 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0810;
+			};
+			buildConfigurationList = 4A6EDF111DFC391200ACBC05 /* Build configuration list for PBXProject "Trip" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4A6EDF0D1DFC391200ACBC05;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		4A6EDF121DFC391200ACBC05 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		4A6EDF131DFC391200ACBC05 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4A6EDF111DFC391200ACBC05 /* Build configuration list for PBXProject "Trip" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4A6EDF121DFC391200ACBC05 /* Debug */,
+				4A6EDF131DFC391200ACBC05 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4A6EDF0E1DFC391200ACBC05 /* Project object */;
+}
